@@ -1,10 +1,10 @@
 Taakverdeling
 
 Topologie: Ziggy, Merlijn, Luka
-Firewall: Aron
+Firewall: Merlijn
 IP-configuratie: Luka
 IP-plan: Ziggy, Aron, Merlijn 
 VLANs: Ruben
-Webserver: Ruben
+Webserver: Aron
 DNS: Aron
-HSERP in Rotterdam: 
+HSERP in Rotterdam: Ruben
